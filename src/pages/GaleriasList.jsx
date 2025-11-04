@@ -52,7 +52,7 @@ function GaleriasList() {
             </p>
             <div className="aspect-video mb-4">
               <iframe
-                src="https://drive.google.com/file/d/1FHnrty9EuoYaIMcbxKRbQbO4zsOfSYMa/preview"
+                src="https://drive.google.com/file/d/1DBNlwXAHWjXAHk324aZjKyNBP5nifySw/preview"
                 allow="autoplay; fullscreen"
                 allowFullScreen
                 className="w-full h-full rounded-lg" // 👈 agrega esto
