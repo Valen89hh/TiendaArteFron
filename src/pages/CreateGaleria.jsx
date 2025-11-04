@@ -35,7 +35,7 @@ function CreateGaleria() {
     await API.post("/galerias/", { ...form, foto_url: fotoUrl });
 
     setLoading(false);
-    navigate("/galerias");
+    navigate("/");
   };
 
   return (

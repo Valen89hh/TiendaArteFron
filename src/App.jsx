@@ -12,7 +12,7 @@ function App() {
     <Router>
       <Routes>
         {/* Galerías */}
-        <Route path="/galerias" element={<GaleriasList />} />
+        <Route path="/" element={<GaleriasList />} />
         <Route path="/galerias/new" element={<CreateGaleria />} />
         <Route path="/galerias/edit/:id" element={<EditGaleria />} />
 
